@@ -1,0 +1,12 @@
+Name                      Mean  Median   Max   Min
+--------------------    ------  ------  ----  ----
+Rory Williams               86      88    92    78
+James Barnes                74      76    91    54
+Sarah Jane Smith            88      86    95    82
+Jack Sparrow                21      15    54     0
+Paul Onderisin             100     100   100   100
+King Arthur                 37      51    65     0
+
+Total number of participants: 6
+Highest average score: Paul Onderisin (100)
+Lowest average score: Jack Sparrow(21)
